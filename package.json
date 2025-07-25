@@ -1,0 +1,20 @@
+{
+  "name": "node-js-crash-cours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoaib4447/node-js-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shoaib4447/node-js-crash-course/issues"
+  },
+  "homepage": "https://github.com/Shoaib4447/node-js-crash-course#readme",
+  "description": ""
+}
